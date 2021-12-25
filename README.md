@@ -1,6 +1,8 @@
 # cur357_Games
 UW Madison game design one course small games
 
+My itch.io page: https://itch.io/dashboard
+
 1. I AM A LITTLE MONSTER made by http://ledoux.io/bitsy/editor.html
 2. WIPE IT made by https://www.puzzlescript.net/index.html
 3. LIFE RESTART SIMULATOR made by https://twinery.org/
